@@ -1,8 +1,9 @@
+import Child from "./child";
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello World!</h1>
+      <Child name="Khizar Wakeel" />
     </div>
   );
 }
